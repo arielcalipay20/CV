@@ -1,1 +1,2 @@
 # CV
+Using HTML, CSS and BOOTSTRAP
